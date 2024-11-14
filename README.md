@@ -1,5 +1,5 @@
 # QuickStyle-CSS-Guide
-=====================
+
 QuicksStyle Css Guide is a fasr and accessible resource for people Css code snipets, This is guide offers collectrion of CSS snippets that make it easy for developers and designers to intergtate essential styling and layout features into the projects.
 
 ## Project Overview 
