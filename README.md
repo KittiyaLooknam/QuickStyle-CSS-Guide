@@ -18,8 +18,8 @@ As a empoloyer, I want my tream to have easy access to CSS snippets and best pra
 - Box Hover Effects simper trasition to add interactive hover effects.
 - Overlay Cards simple overlay card designs for images with titles.
 
-## Demo 
-You can view the demo of this project by clicking on the link below:
+## screenshot
+![alt text](image.png)
 
 ## Technologies Used 
 - HTML For the page structure and content layout.
