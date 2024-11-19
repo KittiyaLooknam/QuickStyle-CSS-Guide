@@ -19,7 +19,8 @@ As a empoloyer, I want my tream to have easy access to CSS snippets and best pra
 - Overlay Cards simple overlay card designs for images with titles.
 
 ## screenshot
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/6fc4d923-bae8-4e93-b06a-44862fcd6055)
+
 
 ## Technologies Used 
 - HTML For the page structure and content layout.
